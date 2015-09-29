@@ -53,10 +53,16 @@
     color: #FFF;
 }
 
+::-webkit-selection {
+    background-color: #dc143c;
+    color: #FFF;
+}
+
 ::selection {
     background-color: #dc143c;
     color: #FFF;
 }
+
 
 
 /*  General Style   ||-----------*/
