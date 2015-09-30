@@ -1183,7 +1183,7 @@ form label.error {
 }
 
 .header .logo a img.l-black, .header.sticky .logo a img.l-black, .background--light .header .logo a img.l-black, .background--dark .header .logo a img.l-white {
-    opacity: 1;
+    opacity: .5;
 }
 
 .header .logo {
